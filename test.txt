@@ -1,2 +1,7 @@
 Anh Hoàng đẹp trai dễ thương.
+<<<<<<< HEAD
 anh hoàng đẹp trai vô cực
+=======
+
+anh hoàng hihi
+>>>>>>> hoang
